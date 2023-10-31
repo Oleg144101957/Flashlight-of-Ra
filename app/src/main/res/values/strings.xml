@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flashlight of Ra</string>
+    <string name="your_screen_is_loading">Your screen is loading...</string>
+    <string name="no_connection">No Connection ...</string>
+</resources>
